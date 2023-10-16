@@ -1,0 +1,67 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: violet;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.portfolio-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio-images img {
+    margin: 10px;
+    max-width: 50%;
+    border: 1px violet;
+}
+.portfolio-images{
+    margin: auto;
+    margin: 100;
+    border: #FFF;
+
+}
+
+address a {
+    color: #FF5722;
+}
+
+footer {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+}
